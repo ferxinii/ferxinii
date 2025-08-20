@@ -1,2 +1,2 @@
-## Hey! 👋
-Check out my [website](https://ferxinii.github.io).
+## Hey 👋 ! Check out my [website](https://ferxinii.github.io).
+
